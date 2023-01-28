@@ -1,0 +1,6530 @@
+[
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":80000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Jeep CL550",
+  "company":"Mahindra",
+  "year":2006,
+  "Price":425000,
+  "kms_driven":40,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":325000,
+  "kms_driven":28000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford EcoSport Titanium",
+  "company":"Ford",
+  "year":2014,
+  "Price":575000,
+  "kms_driven":36000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford Figo",
+  "company":"Ford",
+  "year":2012,
+  "Price":175000,
+  "kms_driven":41000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Eon",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":190000,
+  "kms_driven":25000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford EcoSport Ambiente",
+  "company":"Ford",
+  "year":2016,
+  "Price":830000,
+  "kms_driven":24530,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":250000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Fabia Classic",
+  "company":"Skoda",
+  "year":2010,
+  "Price":182000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Stingray",
+  "company":"Maruti",
+  "year":2015,
+  "Price":315000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":415000,
+  "kms_driven":32000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio SLE",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":320000,
+  "kms_driven":48660,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":80000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Jeep CL550",
+  "company":"Mahindra",
+  "year":2006,
+  "Price":425000,
+  "kms_driven":40,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Audi A8",
+  "company":"Audi",
+  "year":2017,
+  "Price":1000000,
+  "kms_driven":4000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Audi Q7",
+  "company":"Audi",
+  "year":2014,
+  "Price":500000,
+  "kms_driven":16934,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":350000,
+  "kms_driven":43000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2014,
+  "Price":160000,
+  "kms_driven":35550,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":350000,
+  "kms_driven":43000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":310000,
+  "kms_driven":39522,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":75000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Sportz",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":100000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Sportz",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":100000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Sportz",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":100000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2017,
+  "Price":190000,
+  "kms_driven":72000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Vitara",
+  "company":"Maruti",
+  "year":2016,
+  "Price":290000,
+  "kms_driven":15975,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2008,
+  "Price":95000,
+  "kms_driven":70000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Bolero DI",
+  "company":"Mahindra",
+  "year":2017,
+  "Price":180000,
+  "kms_driven":23452,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":385000,
+  "kms_driven":35522,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":250000,
+  "kms_driven":48508,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2017,
+  "Price":180000,
+  "kms_driven":15487,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2013,
+  "Price":105000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2013,
+  "Price":105000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Innova 2.0",
+  "company":"Toyota",
+  "year":2012,
+  "Price":650000,
+  "kms_driven":82000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Lodgy 85",
+  "company":"Renault",
+  "year":2018,
+  "Price":689999,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Skoda Yeti Ambition",
+  "company":"Skoda",
+  "year":2012,
+  "Price":448000,
+  "kms_driven":68000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Baleno",
+  "company":"Maruti",
+  "year":2017,
+  "Price":549000,
+  "kms_driven":32000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 110",
+  "company":"Renault",
+  "year":2012,
+  "Price":501000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 85",
+  "company":"Renault",
+  "year":2013,
+  "Price":489999,
+  "kms_driven":27000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2011,
+  "Price":280000,
+  "kms_driven":33000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":250000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2013,
+  "Price":349999,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2013,
+  "Price":284999,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze 1.5",
+  "company":"Honda",
+  "year":2015,
+  "Price":345000,
+  "kms_driven":36000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2015,
+  "Price":499999,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Datsun Redi GO",
+  "company":"Datsun",
+  "year":2017,
+  "Price":235000,
+  "kms_driven":16000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki SX4",
+  "company":"Maruti",
+  "year":2010,
+  "Price":249999,
+  "kms_driven":36000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mitsubishi Pajero Sport",
+  "company":"Mitsubishi",
+  "year":2015,
+  "Price":1475000,
+  "kms_driven":47000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Bolero DI",
+  "company":"Mahindra",
+  "year":2017,
+  "Price":180000,
+  "kms_driven":23452,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":385000,
+  "kms_driven":35522,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":250000,
+  "kms_driven":48508,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2017,
+  "Price":180000,
+  "kms_driven":15487,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2013,
+  "Price":105000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2013,
+  "Price":105000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":395000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2017,
+  "Price":220000,
+  "kms_driven":30874,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City ZX",
+  "company":"Honda",
+  "year":2017,
+  "Price":170000,
+  "kms_driven":15000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2013,
+  "Price":85000,
+  "kms_driven":29685,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Figo",
+  "company":"Ford",
+  "year":2012,
+  "Price":175000,
+  "kms_driven":41000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Eon",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":190000,
+  "kms_driven":25000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2017,
+  "Price":200000,
+  "kms_driven":130000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport Ambiente",
+  "company":"Ford",
+  "year":2016,
+  "Price":830000,
+  "kms_driven":24530,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2017,
+  "Price":200000,
+  "kms_driven":130000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio SLE",
+  "company":"Mahindra",
+  "year":2012,
+  "Price":570000,
+  "kms_driven":19000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo Highline",
+  "company":"Volkswagen",
+  "year":2014,
+  "Price":315000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Fabia Classic",
+  "company":"Skoda",
+  "year":2010,
+  "Price":182000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Stingray",
+  "company":"Maruti",
+  "year":2015,
+  "Price":315000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Spark LS",
+  "company":"Chevrolet",
+  "year":2010,
+  "Price":110000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster 110PS",
+  "company":"Renault",
+  "year":2012,
+  "Price":501000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2015,
+  "Price":448999,
+  "kms_driven":54000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Datsun Redi GO",
+  "company":"Datsun",
+  "year":2017,
+  "Price":235000,
+  "kms_driven":16000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Fabia 1.2L",
+  "company":"Skoda",
+  "year":2011,
+  "Price":159500,
+  "kms_driven":38200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2015,
+  "Price":344999,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2015,
+  "Price":344999,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster",
+  "company":"Renault",
+  "year":2014,
+  "Price":449999,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio S4",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":865000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio VLX",
+  "company":"Mahindra",
+  "year":2014,
+  "Price":699000,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Quanto C8",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":375000,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport",
+  "company":"Ford",
+  "year":2017,
+  "Price":489999,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Brio",
+  "company":"Honda",
+  "year":2012,
+  "Price":224999,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Volkswagen Vento Highline",
+  "company":"Volkswagen",
+  "year":2019,
+  "Price":1200000,
+  "kms_driven":3600,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20 Magna",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":195000,
+  "kms_driven":32000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2010,
+  "Price":351000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna Transform",
+  "company":"Hyundai",
+  "year":2008,
+  "Price":160000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2009,
+  "Price":240000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2005,
+  "Price":90000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":415000,
+  "kms_driven":32000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Fabia 1.2L",
+  "company":"Skoda",
+  "year":2011,
+  "Price":155000,
+  "kms_driven":45863,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"BMW 3 Series",
+  "company":"BMW",
+  "year":2011,
+  "Price":600000,
+  "kms_driven":60500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki A",
+  "company":"Maruti",
+  "year":2011,
+  "Price":189500,
+  "kms_driven":12500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Etios GD",
+  "company":"Toyota",
+  "year":2013,
+  "Price":350000,
+  "kms_driven":60000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford Figo Diesel",
+  "company":"Ford",
+  "year":2012,
+  "Price":210000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":390000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat LT",
+  "company":"Chevrolet",
+  "year":2012,
+  "Price":135000,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"BMW 7 Series",
+  "company":"BMW",
+  "year":2009,
+  "Price":1600000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra XUV500 W8",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":701000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i10 Magna",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":265000,
+  "kms_driven":18000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Verna Fluidic",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":525000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2013,
+  "Price":372000,
+  "kms_driven":13349,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2016,
+  "Price":635000,
+  "kms_driven":29000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford EcoSport Titanium",
+  "company":"Ford",
+  "year":2014,
+  "Price":550000,
+  "kms_driven":44000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2016,
+  "Price":575000,
+  "kms_driven":29000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2013,
+  "Price":485000,
+  "kms_driven":42000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2012,
+  "Price":155000,
+  "kms_driven":14000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":345000,
+  "kms_driven":49000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze 1.2",
+  "company":"Honda",
+  "year":2014,
+  "Price":325000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Asta",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":329500,
+  "kms_driven":36200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford Figo Diesel",
+  "company":"Ford",
+  "year":2014,
+  "Price":195000,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Eeco",
+  "company":"Maruti",
+  "year":2015,
+  "Price":251111,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2014,
+  "Price":569999,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Esteem",
+  "company":"Maruti",
+  "year":2007,
+  "Price":69999,
+  "kms_driven":51000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2014,
+  "Price":299999,
+  "kms_driven":19000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2009,
+  "Price":220000,
+  "kms_driven":46000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2013,
+  "Price":399999,
+  "kms_driven":33000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2013,
+  "Price":372000,
+  "kms_driven":13349,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2015,
+  "Price":450000,
+  "kms_driven":104000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Etios Liva",
+  "company":"Toyota",
+  "year":2014,
+  "Price":270000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Sportz",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":350000,
+  "kms_driven":33333,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Spark",
+  "company":"Chevrolet",
+  "year":2012,
+  "Price":158400,
+  "kms_driven":33600,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2017,
+  "Price":350000,
+  "kms_driven":5600,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Nissan Micra XV",
+  "company":"Nissan",
+  "year":2011,
+  "Price":179000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2007,
+  "Price":125000,
+  "kms_driven":70000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2018,
+  "Price":200000,
+  "kms_driven":7500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Amaze 1.5",
+  "company":"Honda",
+  "year":2013,
+  "Price":299000,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":220000,
+  "kms_driven":38000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat",
+  "company":"Chevrolet",
+  "year":2015,
+  "Price":150000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2010,
+  "Price":285000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford EcoSport Trend",
+  "company":"Ford",
+  "year":2016,
+  "Price":830000,
+  "kms_driven":24330,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20 Asta",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":210000,
+  "kms_driven":65480,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2013,
+  "Price":340000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2006,
+  "Price":90000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hindustan Motors Ambassador",
+  "company":"Hindustan",
+  "year":2000,
+  "Price":70000,
+  "kms_driven":200000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2010,
+  "Price":289999,
+  "kms_driven":70000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2012,
+  "Price":349999,
+  "kms_driven":59000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Innova 2.5",
+  "company":"Toyota",
+  "year":2012,
+  "Price":849999,
+  "kms_driven":99000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Jetta Highline",
+  "company":"Volkswagen",
+  "year":2014,
+  "Price":749999,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo Comfortline",
+  "company":"Volkswagen",
+  "year":2015,
+  "Price":399999,
+  "kms_driven":2800,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Volkswagen Polo",
+  "company":"Volkswagen",
+  "year":2014,
+  "Price":274999,
+  "kms_driven":32000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":984999,
+  "kms_driven":22000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster",
+  "company":"Renault",
+  "year":2014,
+  "Price":449999,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2015,
+  "Price":344999,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Nissan Sunny",
+  "company":"Nissan",
+  "year":2012,
+  "Price":224999,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":599999,
+  "kms_driven":21000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Kwid",
+  "company":"Renault",
+  "year":2016,
+  "Price":244999,
+  "kms_driven":11000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster",
+  "company":"Renault",
+  "year":2013,
+  "Price":399999,
+  "kms_driven":41000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport",
+  "company":"Ford",
+  "year":2017,
+  "Price":489999,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster",
+  "company":"Renault",
+  "year":2014,
+  "Price":474999,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio VLX",
+  "company":"Mahindra",
+  "year":2011,
+  "Price":499999,
+  "kms_driven":66000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2018,
+  "Price":310000,
+  "kms_driven":3000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Spark LT",
+  "company":"Chevrolet",
+  "year":2010,
+  "Price":85000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Datsun Redi GO",
+  "company":"Datsun",
+  "year":2016,
+  "Price":245000,
+  "kms_driven":7000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2010,
+  "Price":189500,
+  "kms_driven":38500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Fiat Punto Emotion",
+  "company":"Fiat",
+  "year":2012,
+  "Price":169500,
+  "kms_driven":37200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2010,
+  "Price":159500,
+  "kms_driven":43200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Etios GD",
+  "company":"Toyota",
+  "year":2013,
+  "Price":275000,
+  "kms_driven":24800,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Sportz",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":370000,
+  "kms_driven":60000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i10 Sportz",
+  "company":"Hyundai",
+  "year":2010,
+  "Price":168000,
+  "kms_driven":45872,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat LT",
+  "company":"Chevrolet",
+  "year":2011,
+  "Price":150000,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Beat LS",
+  "company":"Chevrolet",
+  "year":2011,
+  "Price":145000,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Beat LT",
+  "company":"Chevrolet",
+  "year":2012,
+  "Price":98500,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio VLX",
+  "company":"Mahindra",
+  "year":2014,
+  "Price":699000,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo CS",
+  "company":"Tata",
+  "year":2011,
+  "Price":85000,
+  "kms_driven":11400,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2015,
+  "Price":575000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2014,
+  "Price":549000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2011,
+  "Price":209000,
+  "kms_driven":47000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Eon Era",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":185000,
+  "kms_driven":27000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":900000,
+  "kms_driven":97200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500",
+  "company":"Mahindra",
+  "year":2014,
+  "Price":699999,
+  "kms_driven":52000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Brio",
+  "company":"Honda",
+  "year":2012,
+  "Price":224999,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Fiesta",
+  "company":"Ford",
+  "year":2011,
+  "Price":274999,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2013,
+  "Price":284999,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2015,
+  "Price":599999,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2012,
+  "Price":199999,
+  "kms_driven":44000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2014,
+  "Price":544999,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":199000,
+  "kms_driven":31000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2016,
+  "Price":320000,
+  "kms_driven":175430,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Fluidic Verna",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":540000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Quanto C8",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":340000,
+  "kms_driven":37000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Fiat Petra ELX",
+  "company":"Fiat",
+  "year":2008,
+  "Price":75000,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Fabia 1.2L",
+  "company":"Skoda",
+  "year":2011,
+  "Price":159500,
+  "kms_driven":38200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2005,
+  "Price":49000,
+  "kms_driven":7500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ciaz",
+  "company":"Maruti",
+  "year":2016,
+  "Price":700000,
+  "kms_driven":3350,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2000,
+  "Price":55000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2015,
+  "Price":448999,
+  "kms_driven":54000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Creta 1.6",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":895000,
+  "kms_driven":32000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio SLX",
+  "company":"Mahindra",
+  "year":2007,
+  "Price":355000,
+  "kms_driven":75000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio SLE",
+  "company":"Mahindra",
+  "year":2012,
+  "Price":565000,
+  "kms_driven":62000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Innova 2.5",
+  "company":"Toyota",
+  "year":2006,
+  "Price":365000,
+  "kms_driven":73000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2011,
+  "Price":145000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2011,
+  "Price":210000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Nano Cx",
+  "company":"Tata",
+  "year":2013,
+  "Price":40000,
+  "kms_driven":2200,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2013,
+  "Price":125000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2009,
+  "Price":135000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2006,
+  "Price":135000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Sumo Victa",
+  "company":"Tata",
+  "year":2012,
+  "Price":285000,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2010,
+  "Price":145000,
+  "kms_driven":54870,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2010,
+  "Price":135000,
+  "kms_driven":34580,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Volkswagen Passat Diesel",
+  "company":"Volkswagen",
+  "year":2009,
+  "Price":450000,
+  "kms_driven":97000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Scala RxL",
+  "company":"Renault",
+  "year":2015,
+  "Price":375000,
+  "kms_driven":25000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Quanto C8",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":375000,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":365000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Active",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":500000,
+  "kms_driven":18000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Xylo E4",
+  "company":"Mahindra",
+  "year":2012,
+  "Price":400000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Jeep MM",
+  "company":"Mahindra",
+  "year":2019,
+  "Price":390000,
+  "kms_driven":60,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 110PS",
+  "company":"Renault",
+  "year":2012,
+  "Price":501000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Bolero SLE",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":330000,
+  "kms_driven":80200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Force Motors Force",
+  "company":"Force",
+  "year":2015,
+  "Price":580000,
+  "kms_driven":3200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki SX4",
+  "company":"Maruti",
+  "year":2012,
+  "Price":265000,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Jeep CL550",
+  "company":"Mahindra",
+  "year":2019,
+  "Price":379000,
+  "kms_driven":0,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":219000,
+  "kms_driven":5000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Jeep CL550",
+  "company":"Mahindra",
+  "year":2018,
+  "Price":385000,
+  "kms_driven":588,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Etios",
+  "company":"Toyota",
+  "year":2011,
+  "Price":275000,
+  "kms_driven":36000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo",
+  "company":"Volkswagen",
+  "year":2015,
+  "Price":330000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City ZX",
+  "company":"Honda",
+  "year":2008,
+  "Price":110000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2006,
+  "Price":80000,
+  "kms_driven":71200,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City VX",
+  "company":"Honda",
+  "year":2016,
+  "Price":519000,
+  "kms_driven":52000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Thar CRDe",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":730000,
+  "kms_driven":29000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mitsubishi Pajero Sport",
+  "company":"Mitsubishi",
+  "year":2015,
+  "Price":1475000,
+  "kms_driven":47000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Audi A4 1.8",
+  "company":"Audi",
+  "year":2009,
+  "Price":699000,
+  "kms_driven":47000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mercedes Benz GLA",
+  "company":"Mercedes",
+  "year":2015,
+  "Price":2000000,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Land Rover Freelander",
+  "company":"Land",
+  "year":2015,
+  "Price":2100000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Kwid RXT",
+  "company":"Renault",
+  "year":2017,
+  "Price":340000,
+  "kms_driven":5000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Aria Pleasure",
+  "company":"Tata",
+  "year":2014,
+  "Price":390000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mercedes Benz B",
+  "company":"Mercedes",
+  "year":2014,
+  "Price":1400000,
+  "kms_driven":31000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Datsun GO T",
+  "company":"Datsun",
+  "year":2016,
+  "Price":245000,
+  "kms_driven":7000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2016,
+  "Price":320000,
+  "kms_driven":175430,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2016,
+  "Price":320000,
+  "kms_driven":175400,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Jazz VX",
+  "company":"Honda",
+  "year":2016,
+  "Price":450000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Amaze 1.2",
+  "company":"Honda",
+  "year":2014,
+  "Price":311000,
+  "kms_driven":33000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2013,
+  "Price":284999,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2012,
+  "Price":399999,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2015,
+  "Price":599999,
+  "kms_driven":39000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2015,
+  "Price":344999,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Audi A4 1.8",
+  "company":"Audi",
+  "year":2009,
+  "Price":699000,
+  "kms_driven":47000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Force Motors Force",
+  "company":"Force",
+  "year":2015,
+  "Price":580000,
+  "kms_driven":3200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S4",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":855000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20 Active",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":535000,
+  "kms_driven":37000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ciaz",
+  "company":"Maruti",
+  "year":2017,
+  "Price":699000,
+  "kms_driven":14000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Tavera Neo",
+  "company":"Chevrolet",
+  "year":2013,
+  "Price":375000,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2013,
+  "Price":284999,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Eon Sportz",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":178000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Sumo Gold",
+  "company":"Tata",
+  "year":2013,
+  "Price":300000,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2003,
+  "Price":90000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Esteem",
+  "company":"Maruti",
+  "year":2006,
+  "Price":95000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Eeco",
+  "company":"Maruti",
+  "year":2015,
+  "Price":255000,
+  "kms_driven":9300,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Enjoy 1.4",
+  "company":"Chevrolet",
+  "year":2013,
+  "Price":245000,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20 Asta",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":329500,
+  "kms_driven":36200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford Figo Diesel",
+  "company":"Ford",
+  "year":2014,
+  "Price":195000,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Eeco",
+  "company":"Maruti",
+  "year":2015,
+  "Price":251111,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2014,
+  "Price":569999,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Esteem",
+  "company":"Maruti",
+  "year":2007,
+  "Price":69999,
+  "kms_driven":51000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2014,
+  "Price":299999,
+  "kms_driven":19000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2009,
+  "Price":220000,
+  "kms_driven":46000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2013,
+  "Price":399999,
+  "kms_driven":33000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki SX4",
+  "company":"Maruti",
+  "year":2010,
+  "Price":249999,
+  "kms_driven":36000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2015,
+  "Price":289999,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Nissan Terrano XL",
+  "company":"Nissan",
+  "year":2015,
+  "Price":499999,
+  "kms_driven":60000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 85",
+  "company":"Renault",
+  "year":2013,
+  "Price":489999,
+  "kms_driven":27000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 85",
+  "company":"Renault",
+  "year":2014,
+  "Price":489999,
+  "kms_driven":59000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 85",
+  "company":"Renault",
+  "year":2015,
+  "Price":549999,
+  "kms_driven":19000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2013,
+  "Price":380000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Kwid RXT",
+  "company":"Renault",
+  "year":2018,
+  "Price":325000,
+  "kms_driven":15000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Maruti",
+  "company":"Maruti",
+  "year":2003,
+  "Price":57000,
+  "kms_driven":56758,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Kwid 1.0",
+  "company":"Renault",
+  "year":2018,
+  "Price":349999,
+  "kms_driven":10000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Lodgy 85",
+  "company":"Renault",
+  "year":2018,
+  "Price":689999,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Scala RxL",
+  "company":"Renault",
+  "year":2014,
+  "Price":349999,
+  "kms_driven":49000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":410000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2011,
+  "Price":225000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat LS",
+  "company":"Chevrolet",
+  "year":2010,
+  "Price":120000,
+  "kms_driven":43000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2016,
+  "Price":320000,
+  "kms_driven":175430,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2000,
+  "Price":59000,
+  "kms_driven":56450,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Fluidic Verna",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":540000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Beat LS",
+  "company":"Chevrolet",
+  "year":2010,
+  "Price":80000,
+  "kms_driven":56000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Quanto C8",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":340000,
+  "kms_driven":37000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Fiat Petra ELX",
+  "company":"Fiat",
+  "year":2008,
+  "Price":75000,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat LS",
+  "company":"Chevrolet",
+  "year":2015,
+  "Price":220000,
+  "kms_driven":32700,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Fabia 1.2L",
+  "company":"Skoda",
+  "year":2011,
+  "Price":159500,
+  "kms_driven":38200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport Titanium",
+  "company":"Ford",
+  "year":2016,
+  "Price":599000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Accent GLX",
+  "company":"Hyundai",
+  "year":2006,
+  "Price":80000,
+  "kms_driven":56000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra TUV300 T4",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":675000,
+  "kms_driven":9000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2008,
+  "Price":150000,
+  "kms_driven":11000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mini Cooper S",
+  "company":"Mini",
+  "year":2013,
+  "Price":1891111,
+  "kms_driven":13000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo CS",
+  "company":"Tata",
+  "year":2009,
+  "Price":72500,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2019,
+  "Price":610000,
+  "kms_driven":73,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio VLX",
+  "company":"Mahindra",
+  "year":2004,
+  "Price":230000,
+  "kms_driven":160000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Accord",
+  "company":"Honda",
+  "year":2009,
+  "Price":175000,
+  "kms_driven":58559,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio S4",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":855000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Tavera Neo",
+  "company":"Chevrolet",
+  "year":2013,
+  "Price":375000,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport Titanium",
+  "company":"Ford",
+  "year":2014,
+  "Price":520000,
+  "kms_driven":57000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2015,
+  "Price":524999,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2014,
+  "Price":299999,
+  "kms_driven":37000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2012,
+  "Price":299999,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2011,
+  "Price":284999,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio 2.6",
+  "company":"Mahindra",
+  "year":2007,
+  "Price":220000,
+  "kms_driven":170000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2014,
+  "Price":424999,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2015,
+  "Price":644999,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Mobilio",
+  "company":"Honda",
+  "year":2014,
+  "Price":399999,
+  "kms_driven":44000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2009,
+  "Price":199999,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2014,
+  "Price":584999,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Laura",
+  "company":"Skoda",
+  "year":2012,
+  "Price":349999,
+  "kms_driven":44000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster",
+  "company":"Renault",
+  "year":2015,
+  "Price":449999,
+  "kms_driven":49000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2018,
+  "Price":799999,
+  "kms_driven":9000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2015,
+  "Price":444999,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500",
+  "company":"Mahindra",
+  "year":2014,
+  "Price":649999,
+  "kms_driven":47000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna Fluidic",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":444999,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Vitara",
+  "company":"Maruti",
+  "year":2016,
+  "Price":689999,
+  "kms_driven":29000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2016,
+  "Price":344999,
+  "kms_driven":15000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":944999,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2014,
+  "Price":274999,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra XUV500",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":689999,
+  "kms_driven":80000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":574999,
+  "kms_driven":68000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Skoda Laura",
+  "company":"Skoda",
+  "year":2013,
+  "Price":374999,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo",
+  "company":"Volkswagen",
+  "year":2010,
+  "Price":199999,
+  "kms_driven":60000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":549999,
+  "kms_driven":9000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Manza Aura",
+  "company":"Tata",
+  "year":2012,
+  "Price":130000,
+  "kms_driven":72000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Sail UVA",
+  "company":"Chevrolet",
+  "year":2013,
+  "Price":210000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster 110",
+  "company":"Renault",
+  "year":2012,
+  "Price":501000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna Fluidic",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":401000,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Audi A4 2.0",
+  "company":"Audi",
+  "year":2012,
+  "Price":1350000,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elantra SX",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":600000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio VLX",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":610000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra KUV100 K8",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":400000,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Scala RxL",
+  "company":"Renault",
+  "year":2015,
+  "Price":375000,
+  "kms_driven":25000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Quanto C8",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":375000,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":365000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Active",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":500000,
+  "kms_driven":18000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Xylo E4",
+  "company":"Mahindra",
+  "year":2012,
+  "Price":400000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":524999,
+  "kms_driven":6821,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":449999,
+  "kms_driven":23000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":174999,
+  "kms_driven":14000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i10",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":244999,
+  "kms_driven":38000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Active",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":574999,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Datsun Redi GO",
+  "company":"Datsun",
+  "year":2017,
+  "Price":244999,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Etios Liva",
+  "company":"Toyota",
+  "year":2011,
+  "Price":239999,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Accent",
+  "company":"Hyundai",
+  "year":2010,
+  "Price":99999,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Verna",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":489999,
+  "kms_driven":44000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2013,
+  "Price":324999,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Fortuner",
+  "company":"Toyota",
+  "year":2011,
+  "Price":1074999,
+  "kms_driven":52000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i10 Sportz",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":230000,
+  "kms_driven":34000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Bolero Power",
+  "company":"Mahindra",
+  "year":2018,
+  "Price":699000,
+  "kms_driven":1800,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":1000000,
+  "kms_driven":15000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2010,
+  "Price":240000,
+  "kms_driven":400000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Spark LT",
+  "company":"Chevrolet",
+  "year":2009,
+  "Price":110000,
+  "kms_driven":44000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Jeep MM",
+  "company":"Mahindra",
+  "year":2019,
+  "Price":390000,
+  "kms_driven":60,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 110PS",
+  "company":"Renault",
+  "year":2012,
+  "Price":501000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":1130000,
+  "kms_driven":72000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2014,
+  "Price":250000,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Bolero SLE",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":330000,
+  "kms_driven":80200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Force Motors Force",
+  "company":"Force",
+  "year":2015,
+  "Price":580000,
+  "kms_driven":3200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Skoda Rapid Elegance",
+  "company":"Skoda",
+  "year":2013,
+  "Price":340000,
+  "kms_driven":48000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Vista Quadrajet",
+  "company":"Tata",
+  "year":2011,
+  "Price":120000,
+  "kms_driven":90000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":265000,
+  "kms_driven":12000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki SX4",
+  "company":"Maruti",
+  "year":2012,
+  "Price":265000,
+  "kms_driven":46000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2003,
+  "Price":85000,
+  "kms_driven":69900,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Jeep CL550",
+  "company":"Mahindra",
+  "year":2019,
+  "Price":379000,
+  "kms_driven":0,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i10 Magna",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":175000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":219000,
+  "kms_driven":5000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2016,
+  "Price":350000,
+  "kms_driven":166000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City ZX",
+  "company":"Honda",
+  "year":2008,
+  "Price":149000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Jeep CL550",
+  "company":"Mahindra",
+  "year":2018,
+  "Price":385000,
+  "kms_driven":588,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Jeep MM",
+  "company":"Mahindra",
+  "year":2006,
+  "Price":425000,
+  "kms_driven":122,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Beat Diesel",
+  "company":"Chevrolet",
+  "year":2017,
+  "Price":150000,
+  "kms_driven":62000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2010,
+  "Price":225000,
+  "kms_driven":70000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Verna 1.4",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":375000,
+  "kms_driven":36000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Innova 2.5",
+  "company":"Toyota",
+  "year":2012,
+  "Price":770000,
+  "kms_driven":0,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Maruti",
+  "company":"Maruti",
+  "year":1995,
+  "Price":30000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Etios",
+  "company":"Toyota",
+  "year":2011,
+  "Price":275000,
+  "kms_driven":36000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo",
+  "company":"Volkswagen",
+  "year":2015,
+  "Price":330000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":335000,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":450000,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2012,
+  "Price":225000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Versa",
+  "company":"Maruti",
+  "year":2004,
+  "Price":80000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo LX",
+  "company":"Tata",
+  "year":2016,
+  "Price":130000,
+  "kms_driven":104000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Vento Konekt",
+  "company":"Volkswagen",
+  "year":2011,
+  "Price":245000,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mercedes Benz C",
+  "company":"Mercedes",
+  "year":2002,
+  "Price":399000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2013,
+  "Price":450000,
+  "kms_driven":90000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2000,
+  "Price":65000,
+  "kms_driven":80000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2006,
+  "Price":75000,
+  "kms_driven":46000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2001,
+  "Price":70000,
+  "kms_driven":70000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Sonata Transform",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":190000,
+  "kms_driven":36469,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":600000,
+  "kms_driven":7800,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Volkswagen Vento Konekt",
+  "company":"Volkswagen",
+  "year":2011,
+  "Price":245000,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2017,
+  "Price":240000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2011,
+  "Price":155000,
+  "kms_driven":32000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Jazz S",
+  "company":"Honda",
+  "year":2009,
+  "Price":169999,
+  "kms_driven":24695,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":450000,
+  "kms_driven":15141,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2001,
+  "Price":40000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio W",
+  "company":"Mahindra",
+  "year":2012,
+  "Price":165000,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2014,
+  "Price":270000,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":280000,
+  "kms_driven":59910,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500 W8",
+  "company":"Mahindra",
+  "year":2012,
+  "Price":560000,
+  "kms_driven":100000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Creta 1.6",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":950000,
+  "kms_driven":25000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Magna",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":310000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster 85",
+  "company":"Renault",
+  "year":2015,
+  "Price":715000,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":340000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Brio V",
+  "company":"Honda",
+  "year":2012,
+  "Price":235000,
+  "kms_driven":33000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra TUV300 T4",
+  "company":"Mahindra",
+  "year":2017,
+  "Price":610000,
+  "kms_driven":68000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Spark LS",
+  "company":"Chevrolet",
+  "year":2010,
+  "Price":95000,
+  "kms_driven":23000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra TUV300 T8",
+  "company":"Mahindra",
+  "year":2018,
+  "Price":1000000,
+  "kms_driven":4500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2015,
+  "Price":220000,
+  "kms_driven":129000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Nissan X Trail",
+  "company":"Nissan",
+  "year":2019,
+  "Price":1200000,
+  "kms_driven":300,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":230000,
+  "kms_driven":5000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Ikon 1.3",
+  "company":"Ford",
+  "year":2001,
+  "Price":45000,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Fortuner 3.0",
+  "company":"Toyota",
+  "year":2010,
+  "Price":940000,
+  "kms_driven":131000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Manza ELAN",
+  "company":"Tata",
+  "year":2010,
+  "Price":155555,
+  "kms_driven":111111,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mercedes Benz A",
+  "company":"Mercedes",
+  "year":2013,
+  "Price":1500000,
+  "kms_driven":14000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat LS",
+  "company":"Chevrolet",
+  "year":2016,
+  "Price":210000,
+  "kms_driven":22000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport Trend",
+  "company":"Ford",
+  "year":2013,
+  "Price":495000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo LS",
+  "company":"Tata",
+  "year":2016,
+  "Price":125000,
+  "kms_driven":70000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20 Magna",
+  "company":"Hyundai",
+  "year":2010,
+  "Price":195000,
+  "kms_driven":36000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Volkswagen Vento Highline",
+  "company":"Volkswagen",
+  "year":2015,
+  "Price":550000,
+  "kms_driven":34000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Kwid RXT",
+  "company":"Renault",
+  "year":2015,
+  "Price":270000,
+  "kms_driven":43000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford EcoSport Titanium",
+  "company":"Ford",
+  "year":2014,
+  "Price":500000,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda Amaze 1.5",
+  "company":"Honda",
+  "year":2016,
+  "Price":240000,
+  "kms_driven":160000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna 1.6",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":800000,
+  "kms_driven":12000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"BMW 5 Series",
+  "company":"BMW",
+  "year":2011,
+  "Price":1299000,
+  "kms_driven":49000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Skoda Superb 1.8",
+  "company":"Skoda",
+  "year":2011,
+  "Price":530000,
+  "kms_driven":68000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Audi Q3 2.0",
+  "company":"Audi",
+  "year":2013,
+  "Price":1499000,
+  "kms_driven":37000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Bolero DI",
+  "company":"Mahindra",
+  "year":2012,
+  "Price":220000,
+  "kms_driven":59466,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":900000,
+  "kms_driven":97200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford Figo Duratorq",
+  "company":"Ford",
+  "year":2012,
+  "Price":250000,
+  "kms_driven":99000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2018,
+  "Price":395000,
+  "kms_driven":25500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Logan Diesel",
+  "company":"Mahindra",
+  "year":2009,
+  "Price":130000,
+  "kms_driven":66000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Nano GenX",
+  "company":"Tata",
+  "year":2010,
+  "Price":32000,
+  "kms_driven":44005,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra TUV300 T4",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":540000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra TUV300 T4",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":540000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":405000,
+  "kms_driven":28000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":400000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City SV",
+  "company":"Honda",
+  "year":2017,
+  "Price":760000,
+  "kms_driven":4000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Baleno",
+  "company":"Maruti",
+  "year":2016,
+  "Price":500000,
+  "kms_driven":28000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Figo Petrol",
+  "company":"Ford",
+  "year":2011,
+  "Price":175000,
+  "kms_driven":75000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":900000,
+  "kms_driven":97200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2017,
+  "Price":750000,
+  "kms_driven":3000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":419000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Versa",
+  "company":"Maruti",
+  "year":2004,
+  "Price":90000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon Era",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":140000,
+  "kms_driven":2110,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mitsubishi Pajero Sport",
+  "company":"Mitsubishi",
+  "year":2015,
+  "Price":1540000,
+  "kms_driven":43222,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i10 Magna",
+  "company":"Hyundai",
+  "year":2008,
+  "Price":275000,
+  "kms_driven":100200,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Corolla H2",
+  "company":"Toyota",
+  "year":2003,
+  "Price":150000,
+  "kms_driven":100000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2011,
+  "Price":230000,
+  "kms_driven":65,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo CS",
+  "company":"Tata",
+  "year":2015,
+  "Price":123000,
+  "kms_driven":100000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":900000,
+  "kms_driven":97200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S10",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":900000,
+  "kms_driven":97200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Xcent Base",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":300000,
+  "kms_driven":140000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City",
+  "company":"Honda",
+  "year":2015,
+  "Price":499999,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Accent Executive",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":165000,
+  "kms_driven":48000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Baleno",
+  "company":"Maruti",
+  "year":2016,
+  "Price":498000,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Zest XE",
+  "company":"Tata",
+  "year":2018,
+  "Price":480000,
+  "kms_driven":103553,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2017,
+  "Price":488000,
+  "kms_driven":80000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Sumo Gold",
+  "company":"Tata",
+  "year":2014,
+  "Price":250000,
+  "kms_driven":99000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2010,
+  "Price":220000,
+  "kms_driven":58000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Eeco",
+  "company":"Maruti",
+  "year":2013,
+  "Price":290000,
+  "kms_driven":70000,
+  "fuel_type":"LPG"
+ },
+ {
+  "name":"Toyota Fortuner 3.0",
+  "company":"Toyota",
+  "year":2015,
+  "Price":1525000,
+  "kms_driven":120000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500 W6",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":548900,
+  "kms_driven":49800,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Tigor Revotron",
+  "company":"Tata",
+  "year":2019,
+  "Price":650000,
+  "kms_driven":100,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki 800",
+  "company":"Maruti",
+  "year":2001,
+  "Price":55000,
+  "kms_driven":81876,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2015,
+  "Price":550000,
+  "kms_driven":75000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Versa",
+  "company":"Maruti",
+  "year":2004,
+  "Price":90000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Mobilio S",
+  "company":"Honda",
+  "year":2014,
+  "Price":399000,
+  "kms_driven":44000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2016,
+  "Price":730000,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Vitara",
+  "company":"Maruti",
+  "year":2017,
+  "Price":725000,
+  "kms_driven":36000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna 1.6",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":195000,
+  "kms_driven":56000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2007,
+  "Price":130000,
+  "kms_driven":62000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Fortuner 3.0",
+  "company":"Toyota",
+  "year":2015,
+  "Price":1525000,
+  "kms_driven":120000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2014,
+  "Price":190000,
+  "kms_driven":6020,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Amaze",
+  "company":"Honda",
+  "year":2013,
+  "Price":250000,
+  "kms_driven":55700,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indica",
+  "company":"Tata",
+  "year":2005,
+  "Price":80000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2003,
+  "Price":120000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2010,
+  "Price":149000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2014,
+  "Price":250000,
+  "kms_driven":18500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2007,
+  "Price":120000,
+  "kms_driven":7000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Brio VX",
+  "company":"Honda",
+  "year":2017,
+  "Price":450000,
+  "kms_driven":11000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2003,
+  "Price":99999,
+  "kms_driven":53000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2008,
+  "Price":135000,
+  "kms_driven":23000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2016,
+  "Price":225000,
+  "kms_driven":35500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2010,
+  "Price":99000,
+  "kms_driven":22134,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Kwid RXT",
+  "company":"Renault",
+  "year":2019,
+  "Price":370000,
+  "kms_driven":1000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Nano Lx",
+  "company":"Tata",
+  "year":2010,
+  "Price":52000,
+  "kms_driven":9000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Jaguar XE XE",
+  "company":"Jaguar",
+  "year":2016,
+  "Price":2800000,
+  "kms_driven":8500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon Magna",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":190000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2014,
+  "Price":499000,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hindustan Motors Ambassador",
+  "company":"Hindustan",
+  "year":2002,
+  "Price":90000,
+  "kms_driven":25000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2010,
+  "Price":149000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":400000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon D",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":120000,
+  "kms_driven":87000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2015,
+  "Price":250000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2017,
+  "Price":375000,
+  "kms_driven":23000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda Amaze 1.2",
+  "company":"Honda",
+  "year":2014,
+  "Price":381000,
+  "kms_driven":6000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Estilo",
+  "company":"Maruti",
+  "year":2013,
+  "Price":180000,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Vitara",
+  "company":"Maruti",
+  "year":2016,
+  "Price":580000,
+  "kms_driven":25000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Eeco",
+  "company":"Maruti",
+  "year":2015,
+  "Price":278000,
+  "kms_driven":39000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Creta 1.6",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":1000000,
+  "kms_driven":8000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio Vlx",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":690000,
+  "kms_driven":75000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2012,
+  "Price":480000,
+  "kms_driven":51000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mitsubishi Lancer 1.8",
+  "company":"Mitsubishi",
+  "year":2006,
+  "Price":85000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Maruti",
+  "company":"Maruti",
+  "year":2001,
+  "Price":40000,
+  "kms_driven":75000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":90000,
+  "kms_driven":55800,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":340000,
+  "kms_driven":53000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon D",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":260000,
+  "kms_driven":25000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Fiesta SXi",
+  "company":"Ford",
+  "year":2009,
+  "Price":250000,
+  "kms_driven":56400,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2010,
+  "Price":180000,
+  "kms_driven":72160,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna Fluidic",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":350000,
+  "kms_driven":10000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2006,
+  "Price":90001,
+  "kms_driven":48000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Estilo",
+  "company":"Maruti",
+  "year":2007,
+  "Price":115000,
+  "kms_driven":36000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Audi A6 2.0",
+  "company":"Audi",
+  "year":2012,
+  "Price":1599000,
+  "kms_driven":11500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2003,
+  "Price":130000,
+  "kms_driven":133000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2009,
+  "Price":159000,
+  "kms_driven":27000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2009,
+  "Price":160000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2010,
+  "Price":110000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Baleno",
+  "company":"Maruti",
+  "year":2016,
+  "Price":425000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Verna 1.6",
+  "company":"Hyundai",
+  "year":2019,
+  "Price":900000,
+  "kms_driven":2000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2009,
+  "Price":150000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Getz Prime",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":110000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro",
+  "company":"Hyundai",
+  "year":2000,
+  "Price":51999,
+  "kms_driven":88000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Getz Prime",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":115000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat PS",
+  "company":"Chevrolet",
+  "year":2012,
+  "Price":215000,
+  "kms_driven":65422,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport Trend",
+  "company":"Ford",
+  "year":2017,
+  "Price":580000,
+  "kms_driven":10000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2013,
+  "Price":380000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Fluidic Verna",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":350000,
+  "kms_driven":117000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2005,
+  "Price":35000,
+  "kms_driven":150000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"BMW X1 xDrive20d",
+  "company":"BMW",
+  "year":2011,
+  "Price":1150000,
+  "kms_driven":72000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20 Asta",
+  "company":"Hyundai",
+  "year":2010,
+  "Price":300000,
+  "kms_driven":10750,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2009,
+  "Price":269000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Nano",
+  "company":"Tata",
+  "year":2013,
+  "Price":60000,
+  "kms_driven":6800,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Cruze LTZ",
+  "company":"Chevrolet",
+  "year":2014,
+  "Price":400000,
+  "kms_driven":41000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna Fluidic",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":430000,
+  "kms_driven":73000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2011,
+  "Price":140000,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500 W6",
+  "company":"Mahindra",
+  "year":2014,
+  "Price":8500003,
+  "kms_driven":45000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500 W10",
+  "company":"Mahindra",
+  "year":2018,
+  "Price":1299000,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2014,
+  "Price":199000,
+  "kms_driven":37000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Accent GLE",
+  "company":"Hyundai",
+  "year":2006,
+  "Price":90000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Force Motors One",
+  "company":"Force",
+  "year":2013,
+  "Price":550000,
+  "kms_driven":140000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2019,
+  "Price":265000,
+  "kms_driven":9800,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Spark 1.0",
+  "company":"Chevrolet",
+  "year":2011,
+  "Price":100000,
+  "kms_driven":27000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i10",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":215000,
+  "kms_driven":27000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Etios Liva",
+  "company":"Toyota",
+  "year":2012,
+  "Price":380000,
+  "kms_driven":20000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 85PS",
+  "company":"Renault",
+  "year":2013,
+  "Price":401919,
+  "kms_driven":57923,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Enjoy",
+  "company":"Chevrolet",
+  "year":2014,
+  "Price":490000,
+  "kms_driven":30201,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2017,
+  "Price":280000,
+  "kms_driven":6200,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"BMW 5 Series",
+  "company":"BMW",
+  "year":2009,
+  "Price":650000,
+  "kms_driven":37518,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Etios Liva",
+  "company":"Toyota",
+  "year":2014,
+  "Price":160000,
+  "kms_driven":24652,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Jeep MM",
+  "company":"Mahindra",
+  "year":2004,
+  "Price":424000,
+  "kms_driven":383,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Beat LS",
+  "company":"Chevrolet",
+  "year":2016,
+  "Price":225000,
+  "kms_driven":95000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Cruze LTZ",
+  "company":"Chevrolet",
+  "year":2011,
+  "Price":350000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Jeep Wrangler Unlimited",
+  "company":"Jeep",
+  "year":2015,
+  "Price":950000,
+  "kms_driven":3528,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2013,
+  "Price":485000,
+  "kms_driven":52500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna VGT",
+  "company":"Hyundai",
+  "year":2010,
+  "Price":205000,
+  "kms_driven":47900,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2012,
+  "Price":160000,
+  "kms_driven":14000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Celerio",
+  "company":"Maruti",
+  "year":2018,
+  "Price":310000,
+  "kms_driven":37000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Zest Quadrajet",
+  "company":"Tata",
+  "year":2017,
+  "Price":180000,
+  "kms_driven":90000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500 W6",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":549900,
+  "kms_driven":52800,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo CS",
+  "company":"Tata",
+  "year":2016,
+  "Price":150000,
+  "kms_driven":104000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i10 Era",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":175000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2014,
+  "Price":95000,
+  "kms_driven":195000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo LX",
+  "company":"Tata",
+  "year":2016,
+  "Price":230000,
+  "kms_driven":104000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2016,
+  "Price":230000,
+  "kms_driven":104000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo Marina",
+  "company":"Tata",
+  "year":2004,
+  "Price":180000,
+  "kms_driven":70000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Xcent SX",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":400000,
+  "kms_driven":43000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Eon Magna",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":185000,
+  "kms_driven":23000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster 85",
+  "company":"Renault",
+  "year":2015,
+  "Price":385000,
+  "kms_driven":51000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2009,
+  "Price":90000,
+  "kms_driven":62000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Nano LX",
+  "company":"Tata",
+  "year":2010,
+  "Price":32000,
+  "kms_driven":48008,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster 110",
+  "company":"Renault",
+  "year":2013,
+  "Price":435000,
+  "kms_driven":39000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2010,
+  "Price":225000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2006,
+  "Price":189700,
+  "kms_driven":48247,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2012,
+  "Price":389700,
+  "kms_driven":39000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":365000,
+  "kms_driven":23000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2017,
+  "Price":360000,
+  "kms_driven":9400,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Magna",
+  "company":"Hyundai",
+  "year":2010,
+  "Price":210000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i10 Magna",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":170000,
+  "kms_driven":75000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Zest XE",
+  "company":"Tata",
+  "year":2017,
+  "Price":380000,
+  "kms_driven":70000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Xylo E8",
+  "company":"Mahindra",
+  "year":2009,
+  "Price":295000,
+  "kms_driven":64000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2010,
+  "Price":185000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Manza Aqua",
+  "company":"Tata",
+  "year":2014,
+  "Price":160000,
+  "kms_driven":200000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Kwid 1.0",
+  "company":"Renault",
+  "year":2018,
+  "Price":290000,
+  "kms_driven":2137,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Venture EX",
+  "company":"Tata",
+  "year":2013,
+  "Price":100000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":315000,
+  "kms_driven":44000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Skoda Octavia Classic",
+  "company":"Skoda",
+  "year":2006,
+  "Price":114990,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2012,
+  "Price":120000,
+  "kms_driven":160000,
+  "fuel_type":"LPG"
+ },
+ {
+  "name":"Chevrolet Beat Diesel",
+  "company":"Chevrolet",
+  "year":2011,
+  "Price":125000,
+  "kms_driven":56000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Sumo Gold",
+  "company":"Tata",
+  "year":2012,
+  "Price":210000,
+  "kms_driven":75000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna 1.6",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":855000,
+  "kms_driven":42000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Sumo Gold",
+  "company":"Tata",
+  "year":2012,
+  "Price":210000,
+  "kms_driven":75000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio 2.6",
+  "company":"Mahindra",
+  "year":2007,
+  "Price":260000,
+  "kms_driven":56000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2002,
+  "Price":95000,
+  "kms_driven":10544,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2011,
+  "Price":255000,
+  "kms_driven":64000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio SLX",
+  "company":"Mahindra",
+  "year":2008,
+  "Price":300000,
+  "kms_driven":70000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":340000,
+  "kms_driven":25000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":550000,
+  "kms_driven":15000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Ikon 1.6",
+  "company":"Ford",
+  "year":2003,
+  "Price":60000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Innova 2.5",
+  "company":"Toyota",
+  "year":2011,
+  "Price":750000,
+  "kms_driven":147000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Nissan Sunny XL",
+  "company":"Nissan",
+  "year":2011,
+  "Price":230000,
+  "kms_driven":52000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat LT",
+  "company":"Chevrolet",
+  "year":2012,
+  "Price":130000,
+  "kms_driven":90001,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2017,
+  "Price":270000,
+  "kms_driven":21000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2012,
+  "Price":280000,
+  "kms_driven":48006,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2012,
+  "Price":280000,
+  "kms_driven":48006,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2012,
+  "Price":280000,
+  "kms_driven":48006,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Innova 2.0",
+  "company":"Toyota",
+  "year":2012,
+  "Price":600000,
+  "kms_driven":80000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2010,
+  "Price":190000,
+  "kms_driven":74000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":500000,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra XUV500 W10",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":1065000,
+  "kms_driven":41000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo Trendline",
+  "company":"Volkswagen",
+  "year":2015,
+  "Price":350000,
+  "kms_driven":25000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Etios Liva",
+  "company":"Toyota",
+  "year":2012,
+  "Price":350000,
+  "kms_driven":85000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra TUV300 T4",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":540000,
+  "kms_driven":29500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2015,
+  "Price":470000,
+  "kms_driven":30000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":179000,
+  "kms_driven":57000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2003,
+  "Price":48000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ciaz",
+  "company":"Maruti",
+  "year":2016,
+  "Price":650000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon Era",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":190000,
+  "kms_driven":39700,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elantra 1.8",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":500000,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2010,
+  "Price":270000,
+  "kms_driven":67000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2008,
+  "Price":125000,
+  "kms_driven":46000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon Era",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":188000,
+  "kms_driven":38000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":380000,
+  "kms_driven":27000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Verna Fluidic",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":365000,
+  "kms_driven":43000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport Trend",
+  "company":"Ford",
+  "year":2014,
+  "Price":465000,
+  "kms_driven":47000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Magna",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":240000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat Diesel",
+  "company":"Chevrolet",
+  "year":2016,
+  "Price":179999,
+  "kms_driven":19336,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indica eV2",
+  "company":"Tata",
+  "year":2015,
+  "Price":140000,
+  "kms_driven":60105,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Jaguar XF 2.2",
+  "company":"Jaguar",
+  "year":2013,
+  "Price":2190000,
+  "kms_driven":29000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Audi Q5 2.0",
+  "company":"Audi",
+  "year":2014,
+  "Price":2390000,
+  "kms_driven":34000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"BMW 3 Series",
+  "company":"BMW",
+  "year":2011,
+  "Price":1075000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2015,
+  "Price":475000,
+  "kms_driven":22000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"BMW X1 sDrive20d",
+  "company":"BMW",
+  "year":2012,
+  "Price":1025000,
+  "kms_driven":41000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki S",
+  "company":"Maruti",
+  "year":2016,
+  "Price":615000,
+  "kms_driven":21000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2013,
+  "Price":475000,
+  "kms_driven":48000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2016,
+  "Price":270000,
+  "kms_driven":38000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City SV",
+  "company":"Honda",
+  "year":2014,
+  "Price":475000,
+  "kms_driven":34000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Vento Comfortline",
+  "company":"Volkswagen",
+  "year":2011,
+  "Price":240000,
+  "kms_driven":45933,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2005,
+  "Price":120000,
+  "kms_driven":68000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Audi A4 2.0",
+  "company":"Audi",
+  "year":2016,
+  "Price":1900000,
+  "kms_driven":44000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra KUV100",
+  "company":"Mahindra",
+  "year":2017,
+  "Price":360000,
+  "kms_driven":35000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Zest XE",
+  "company":"Tata",
+  "year":2018,
+  "Price":450000,
+  "kms_driven":102563,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500 W8",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":900000,
+  "kms_driven":28600,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2017,
+  "Price":650000,
+  "kms_driven":41800,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Sumo Gold",
+  "company":"Tata",
+  "year":2014,
+  "Price":275000,
+  "kms_driven":116000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2009,
+  "Price":210000,
+  "kms_driven":59000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio 2.6",
+  "company":"Mahindra",
+  "year":2004,
+  "Price":175000,
+  "kms_driven":58000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2009,
+  "Price":85000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mitsubishi Pajero Sport",
+  "company":"Mitsubishi",
+  "year":2015,
+  "Price":1490000,
+  "kms_driven":42590,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster",
+  "company":"Renault",
+  "year":2014,
+  "Price":800000,
+  "kms_driven":7400,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Jetta Comfortline",
+  "company":"Volkswagen",
+  "year":2009,
+  "Price":450000,
+  "kms_driven":54500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2012,
+  "Price":1000000,
+  "kms_driven":200000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Audi A4 2.0",
+  "company":"Audi",
+  "year":2013,
+  "Price":1510000,
+  "kms_driven":27000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volvo S80 Summum",
+  "company":"Volvo",
+  "year":2015,
+  "Price":1850000,
+  "kms_driven":42000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2014,
+  "Price":790000,
+  "kms_driven":29000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mitsubishi Pajero Sport",
+  "company":"Mitsubishi",
+  "year":2015,
+  "Price":1725000,
+  "kms_driven":37000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Beat LT",
+  "company":"Chevrolet",
+  "year":2012,
+  "Price":135000,
+  "kms_driven":36000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"BMW X1",
+  "company":"BMW",
+  "year":2011,
+  "Price":1000000,
+  "kms_driven":34000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Datsun Redi GO",
+  "company":"Datsun",
+  "year":2018,
+  "Price":299999,
+  "kms_driven":7000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mercedes Benz C",
+  "company":"Mercedes",
+  "year":2009,
+  "Price":1225000,
+  "kms_driven":76000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio SLX",
+  "company":"Mahindra",
+  "year":2004,
+  "Price":175000,
+  "kms_driven":60000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Vento Comfortline",
+  "company":"Volkswagen",
+  "year":2011,
+  "Price":200000,
+  "kms_driven":95000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo CS",
+  "company":"Tata",
+  "year":2017,
+  "Price":270000,
+  "kms_driven":50000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford Figo Petrol",
+  "company":"Ford",
+  "year":2019,
+  "Price":525000,
+  "kms_driven":0,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City ZX",
+  "company":"Honda",
+  "year":2006,
+  "Price":180000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2008,
+  "Price":140000,
+  "kms_driven":68000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford EcoSport Trend",
+  "company":"Ford",
+  "year":2014,
+  "Price":400000,
+  "kms_driven":16000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2016,
+  "Price":499000,
+  "kms_driven":51000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2009,
+  "Price":85000,
+  "kms_driven":56000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2004,
+  "Price":70000,
+  "kms_driven":100000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Renault Duster RxL",
+  "company":"Renault",
+  "year":2015,
+  "Price":550000,
+  "kms_driven":36000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":370000,
+  "kms_driven":11523,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Baleno",
+  "company":"Maruti",
+  "year":2018,
+  "Price":690000,
+  "kms_driven":1000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda WR V",
+  "company":"Honda",
+  "year":2009,
+  "Price":250000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indigo CS",
+  "company":"Tata",
+  "year":2016,
+  "Price":110000,
+  "kms_driven":85000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Renault Duster 110",
+  "company":"Renault",
+  "year":2013,
+  "Price":490000,
+  "kms_driven":38600,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio LX",
+  "company":"Mahindra",
+  "year":2009,
+  "Price":320000,
+  "kms_driven":95500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2004,
+  "Price":68000,
+  "kms_driven":56000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2014,
+  "Price":130000,
+  "kms_driven":37458,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki SX4",
+  "company":"Maruti",
+  "year":2016,
+  "Price":970000,
+  "kms_driven":85960,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Audi A3 Cabriolet",
+  "company":"Audi",
+  "year":2015,
+  "Price":3100000,
+  "kms_driven":12516,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon D",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":280000,
+  "kms_driven":35000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2009,
+  "Price":125000,
+  "kms_driven":0,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio SLX",
+  "company":"Mahindra",
+  "year":2008,
+  "Price":285000,
+  "kms_driven":80000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro AE",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":165000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2009,
+  "Price":250000,
+  "kms_driven":51000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S4",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":865000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Xylo D2",
+  "company":"Mahindra",
+  "year":2011,
+  "Price":390000,
+  "kms_driven":48000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro",
+  "company":"Hyundai",
+  "year":2003,
+  "Price":60000,
+  "kms_driven":51000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Beat LT",
+  "company":"Chevrolet",
+  "year":2015,
+  "Price":215000,
+  "kms_driven":90000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2015,
+  "Price":475000,
+  "kms_driven":43000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra XUV500 W8",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":899000,
+  "kms_driven":53000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Fortuner 3.0",
+  "company":"Toyota",
+  "year":2013,
+  "Price":1499000,
+  "kms_driven":97000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2013,
+  "Price":240000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Getz GLE",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":99000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2014,
+  "Price":260000,
+  "kms_driven":120000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Creta 1.6",
+  "company":"Hyundai",
+  "year":2019,
+  "Price":1200000,
+  "kms_driven":0,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":115000,
+  "kms_driven":46000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":88000,
+  "kms_driven":43200,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Xylo D2",
+  "company":"Mahindra",
+  "year":2011,
+  "Price":390000,
+  "kms_driven":56000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":135000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2009,
+  "Price":90000,
+  "kms_driven":30600,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i10 Sportz",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":220000,
+  "kms_driven":38000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":424999,
+  "kms_driven":2550,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":135000,
+  "kms_driven":47000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2005,
+  "Price":95000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Nissan Micra XL",
+  "company":"Nissan",
+  "year":2017,
+  "Price":430000,
+  "kms_driven":62500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2005,
+  "Price":115000,
+  "kms_driven":68000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":215000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2004,
+  "Price":53000,
+  "kms_driven":69000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ertiga",
+  "company":"Maruti",
+  "year":2012,
+  "Price":500000,
+  "kms_driven":48000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indica eV2",
+  "company":"Tata",
+  "year":2012,
+  "Price":85000,
+  "kms_driven":55000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2013,
+  "Price":165000,
+  "kms_driven":25000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon Era",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":200000,
+  "kms_driven":28400,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":200000,
+  "kms_driven":28000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2015,
+  "Price":425000,
+  "kms_driven":42000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Verna 1.6",
+  "company":"Hyundai",
+  "year":2012,
+  "Price":600000,
+  "kms_driven":29000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Tavera LS",
+  "company":"Chevrolet",
+  "year":2005,
+  "Price":130000,
+  "kms_driven":68485,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Tiago Revotron",
+  "company":"Tata",
+  "year":2018,
+  "Price":430000,
+  "kms_driven":3500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Tiago Revotorq",
+  "company":"Tata",
+  "year":2019,
+  "Price":568500,
+  "kms_driven":0,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Zen",
+  "company":"Maruti",
+  "year":2006,
+  "Price":71000,
+  "kms_driven":32000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra KUV100 K8",
+  "company":"Mahindra",
+  "year":2018,
+  "Price":560000,
+  "kms_driven":8000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Ford EcoSport Titanium",
+  "company":"Ford",
+  "year":2014,
+  "Price":590000,
+  "kms_driven":34000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hindustan Motors Ambassador",
+  "company":"Hindustan",
+  "year":1995,
+  "Price":750000,
+  "kms_driven":37000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Fusion 1.4",
+  "company":"Ford",
+  "year":2007,
+  "Price":125000,
+  "kms_driven":85455,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":135000,
+  "kms_driven":46000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro",
+  "company":"Hyundai",
+  "year":2002,
+  "Price":60000,
+  "kms_driven":47000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Fiat Linea Emotion",
+  "company":"Fiat",
+  "year":2009,
+  "Price":120000,
+  "kms_driven":64000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Ikon 1.3",
+  "company":"Ford",
+  "year":2008,
+  "Price":95000,
+  "kms_driven":46000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2017,
+  "Price":240000,
+  "kms_driven":8000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2012,
+  "Price":115000,
+  "kms_driven":64000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio S4",
+  "company":"Mahindra",
+  "year":2015,
+  "Price":795000,
+  "kms_driven":63000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2007,
+  "Price":55000,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Xylo D2",
+  "company":"Mahindra",
+  "year":2009,
+  "Price":300000,
+  "kms_driven":62000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Grand i10",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":320000,
+  "kms_driven":41000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2015,
+  "Price":265000,
+  "kms_driven":14000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Corolla",
+  "company":"Toyota",
+  "year":2006,
+  "Price":160000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon Magna",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":300000,
+  "kms_driven":1600,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Sumo Grande",
+  "company":"Tata",
+  "year":2010,
+  "Price":130000,
+  "kms_driven":90000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2011,
+  "Price":250000,
+  "kms_driven":58000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo Highline1.2L",
+  "company":"Volkswagen",
+  "year":2013,
+  "Price":380000,
+  "kms_driven":27000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2003,
+  "Price":42000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Tiago Revotron",
+  "company":"Tata",
+  "year":2017,
+  "Price":400000,
+  "kms_driven":31000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2009,
+  "Price":120000,
+  "kms_driven":90000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2009,
+  "Price":120000,
+  "kms_driven":90000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2016,
+  "Price":130000,
+  "kms_driven":150000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Beat LS",
+  "company":"Chevrolet",
+  "year":2014,
+  "Price":189000,
+  "kms_driven":31000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Xylo E8",
+  "company":"Mahindra",
+  "year":2011,
+  "Price":365000,
+  "kms_driven":43000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Eon D",
+  "company":"Hyundai",
+  "year":2013,
+  "Price":170000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Sumo Gold",
+  "company":"Tata",
+  "year":2013,
+  "Price":215000,
+  "kms_driven":100000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Nano",
+  "company":"Tata",
+  "year":2013,
+  "Price":60000,
+  "kms_driven":7000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2017,
+  "Price":599999,
+  "kms_driven":31000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i10 Magna",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":400000,
+  "kms_driven":33000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Creta",
+  "company":"Hyundai",
+  "year":2016,
+  "Price":900000,
+  "kms_driven":60000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Volkswagen Polo",
+  "company":"Volkswagen",
+  "year":2013,
+  "Price":299999,
+  "kms_driven":48000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2014,
+  "Price":374999,
+  "kms_driven":33000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Bolt XM",
+  "company":"Tata",
+  "year":2015,
+  "Price":600000,
+  "kms_driven":15000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2005,
+  "Price":70000,
+  "kms_driven":47000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2005,
+  "Price":100000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2010,
+  "Price":150000,
+  "kms_driven":38000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2017,
+  "Price":225000,
+  "kms_driven":12500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2009,
+  "Price":210000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Asta",
+  "company":"Hyundai",
+  "year":2014,
+  "Price":425000,
+  "kms_driven":31000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2008,
+  "Price":162000,
+  "kms_driven":60000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2005,
+  "Price":60000,
+  "kms_driven":80000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Scorpio VLX",
+  "company":"Mahindra",
+  "year":2014,
+  "Price":650000,
+  "kms_driven":77000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Innova 2.5",
+  "company":"Toyota",
+  "year":2012,
+  "Price":750000,
+  "kms_driven":75000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Xylo E8",
+  "company":"Mahindra",
+  "year":2010,
+  "Price":375000,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai i20 Magna",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":230000,
+  "kms_driven":47000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Omni",
+  "company":"Maruti",
+  "year":2000,
+  "Price":35999,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra KUV100",
+  "company":"Mahindra",
+  "year":2016,
+  "Price":380000,
+  "kms_driven":26500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra KUV100 K8",
+  "company":"Mahindra",
+  "year":2019,
+  "Price":560000,
+  "kms_driven":2875,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Datsun Go Plus",
+  "company":"Datsun",
+  "year":2016,
+  "Price":285000,
+  "kms_driven":13900,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Ford Endeavor 4x4",
+  "company":"Ford",
+  "year":2019,
+  "Price":2900000,
+  "kms_driven":9000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2005,
+  "Price":39999,
+  "kms_driven":80000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2006,
+  "Price":85000,
+  "kms_driven":60000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2016,
+  "Price":395000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2008,
+  "Price":175000,
+  "kms_driven":58000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2019,
+  "Price":400000,
+  "kms_driven":1500,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Innova 2.5",
+  "company":"Toyota",
+  "year":2011,
+  "Price":750000,
+  "kms_driven":75000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2016,
+  "Price":250000,
+  "kms_driven":2450,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2019,
+  "Price":425000,
+  "kms_driven":1625,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Volkswagen Polo Highline1.2L",
+  "company":"Volkswagen",
+  "year":2017,
+  "Price":525000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Logan",
+  "company":"Mahindra",
+  "year":2009,
+  "Price":130000,
+  "kms_driven":65000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki 800",
+  "company":"Maruti",
+  "year":2000,
+  "Price":30000,
+  "kms_driven":33400,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mahindra Scorpio",
+  "company":"Mahindra",
+  "year":2011,
+  "Price":475000,
+  "kms_driven":60123,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Chevrolet Sail 1.2",
+  "company":"Chevrolet",
+  "year":2013,
+  "Price":300000,
+  "kms_driven":28000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Santro AE",
+  "company":"Hyundai",
+  "year":2003,
+  "Price":60000,
+  "kms_driven":70000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Wagon",
+  "company":"Maruti",
+  "year":2006,
+  "Price":100000,
+  "kms_driven":7000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Eon",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":260000,
+  "kms_driven":25000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Manza",
+  "company":"Tata",
+  "year":2015,
+  "Price":100000,
+  "kms_driven":100000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Etios G",
+  "company":"Toyota",
+  "year":2013,
+  "Price":265000,
+  "kms_driven":42000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai Getz Prime",
+  "company":"Hyundai",
+  "year":2009,
+  "Price":115000,
+  "kms_driven":20000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Toyota Qualis",
+  "company":"Toyota",
+  "year":2003,
+  "Price":180000,
+  "kms_driven":100000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Santro Xing",
+  "company":"Hyundai",
+  "year":2004,
+  "Price":45000,
+  "kms_driven":137495,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indica eV2",
+  "company":"Tata",
+  "year":2016,
+  "Price":50500,
+  "kms_driven":91200,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Honda City 1.5",
+  "company":"Honda",
+  "year":2009,
+  "Price":270000,
+  "kms_driven":55000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Zest XE",
+  "company":"Tata",
+  "year":2017,
+  "Price":290000,
+  "kms_driven":120000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Quanto C4",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":325000,
+  "kms_driven":63000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Tata Indigo eCS",
+  "company":"Tata",
+  "year":2016,
+  "Price":160000,
+  "kms_driven":104000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2016,
+  "Price":350000,
+  "kms_driven":146000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":290000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Hyundai i20 Select",
+  "company":"Hyundai",
+  "year":2011,
+  "Price":290000,
+  "kms_driven":40000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Chevrolet Tavera Neo",
+  "company":"Chevrolet",
+  "year":2007,
+  "Price":465000,
+  "kms_driven":100800,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2016,
+  "Price":325000,
+  "kms_driven":150000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Elite i20",
+  "company":"Hyundai",
+  "year":2018,
+  "Price":510000,
+  "kms_driven":2100,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Honda City VX",
+  "company":"Honda",
+  "year":2016,
+  "Price":860000,
+  "kms_driven":95000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Dzire",
+  "company":"Maruti",
+  "year":2016,
+  "Price":450000,
+  "kms_driven":2500,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Hyundai Getz",
+  "company":"Hyundai",
+  "year":2006,
+  "Price":125000,
+  "kms_driven":80000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Mercedes Benz C",
+  "company":"Mercedes",
+  "year":2006,
+  "Price":500001,
+  "kms_driven":15000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Alto",
+  "company":"Maruti",
+  "year":2005,
+  "Price":95000,
+  "kms_driven":65000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Swift",
+  "company":"Maruti",
+  "year":2009,
+  "Price":250000,
+  "kms_driven":51000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Skoda Fabia",
+  "company":"Skoda",
+  "year":2009,
+  "Price":110000,
+  "kms_driven":45000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Maruti Suzuki Ritz",
+  "company":"Maruti",
+  "year":2011,
+  "Price":270000,
+  "kms_driven":50000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Indica V2",
+  "company":"Tata",
+  "year":2009,
+  "Price":110000,
+  "kms_driven":30000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Toyota Corolla Altis",
+  "company":"Toyota",
+  "year":2009,
+  "Price":300000,
+  "kms_driven":132000,
+  "fuel_type":"Petrol"
+ },
+ {
+  "name":"Tata Zest XM",
+  "company":"Tata",
+  "year":2018,
+  "Price":260000,
+  "kms_driven":27000,
+  "fuel_type":"Diesel"
+ },
+ {
+  "name":"Mahindra Quanto C8",
+  "company":"Mahindra",
+  "year":2013,
+  "Price":390000,
+  "kms_driven":40000,
+  "fuel_type":"Diesel"
+ }
+]
